@@ -1,9 +1,50 @@
 [
     {
         "id": 1,
-        "name": "asd",
+        "name": "Beautiful Necklace",
         "type": "Necklace",
-        "image_url": "20000",
-        "price": 20000
+        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "images": [
+            "https://i.imgur.com/vn9iorZ.jpg",
+            "https://i.imgur.com/SipINro.jpg",
+            "https://i.imgur.com/7RI6idX.jpg"
+        ],
+        "price": 150000
+    },
+    {
+        "id": 1,
+        "name": "Beautiful Necklace",
+        "type": "Necklace",
+        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "images": [
+            "https://i.imgur.com/vn9iorZ.jpg",
+            "https://i.imgur.com/SipINro.jpg",
+            "https://i.imgur.com/7RI6idX.jpg"
+        ],
+        "price": 150000
+    },
+    {
+        "id": 1,
+        "name": "Beautiful Necklace",
+        "type": "Necklace",
+        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "images": [
+            "https://i.imgur.com/vn9iorZ.jpg",
+            "https://i.imgur.com/SipINro.jpg",
+            "https://i.imgur.com/7RI6idX.jpg"
+        ],
+        "price": 150000
+    },
+    {
+        "id": 1,
+        "name": "Beautiful Necklace",
+        "type": "Necklace",
+        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "images": [
+            "https://i.imgur.com/vn9iorZ.jpg",
+            "https://i.imgur.com/SipINro.jpg",
+            "https://i.imgur.com/7RI6idX.jpg"
+        ],
+        "price": 150000
     }
 ]
