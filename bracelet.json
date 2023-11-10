@@ -46,5 +46,41 @@
             "https://i.imgur.com/7RI6idX.jpg"
         ],
         "price": 150000
+    },
+    {
+        "id": 1,
+        "name": "Beautiful Bracelet",
+        "type": "Bracelet",
+        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "images": [
+            "https://i.imgur.com/vn9iorZ.jpg",
+            "https://i.imgur.com/SipINro.jpg",
+            "https://i.imgur.com/7RI6idX.jpg"
+        ],
+        "price": 150000
+    },
+    {
+        "id": 1,
+        "name": "Beautiful Bracelet",
+        "type": "Bracelet",
+        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "images": [
+            "https://i.imgur.com/vn9iorZ.jpg",
+            "https://i.imgur.com/SipINro.jpg",
+            "https://i.imgur.com/7RI6idX.jpg"
+        ],
+        "price": 150000
+    },
+    {
+        "id": 1,
+        "name": "Beautiful Bracelet",
+        "type": "Bracelet",
+        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "images": [
+            "https://i.imgur.com/vn9iorZ.jpg",
+            "https://i.imgur.com/SipINro.jpg",
+            "https://i.imgur.com/7RI6idX.jpg"
+        ],
+        "price": 150000
     }
 ]
