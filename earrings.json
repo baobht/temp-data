@@ -25,10 +25,10 @@
     },
     {
         "id": 1,
-        "name": "Beautiful Earrings",
+        "name": "Test Webp",
         "type": "Earrings",
-        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
-        "images": ["https://i.imgur.com/vn9iorZ.jpg", "https://i.imgur.com/SipINro.jpg", "https://i.imgur.com/7RI6idX.jpg"],
+        "image_url": "https://i.imgur.com/dIxTm9Ot.jpg",
+        "images": ["https://i.imgur.com/dIxTm9Ot.jpg", "https://i.imgur.com/tPK6TOXt.jpg", "https://i.imgur.com/FhEmo71t.jpg"],
         "price": 150000
     }
 ]
