@@ -9,10 +9,10 @@
     },
     {
         "id": 1,
-        "name": "Beautiful Earrings",
+        "name": "IMG_0937",
         "type": "Earrings",
-        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
-        "images": ["https://i.imgur.com/vn9iorZ.jpg", "https://i.imgur.com/SipINro.jpg", "https://i.imgur.com/7RI6idX.jpg"],
+        "image_url": "https://drive.google.com/uc?id=131Zpu8GrGJJCRuejyp8SK4BXTzyH4O3K&export=view",
+        "images": ["https://drive.google.com/uc?id=131Zpu8GrGJJCRuejyp8SK4BXTzyH4O3K&export=view", "https://drive.google.com/uc?id=1E-86cuvZkNt8m3nv8Cf7APa5YJpYkGXV&export=view", "https://drive.google.com/uc?id=1-PE_8qmdc3V-O0nRC36snnsBzi3dmVjn&export=view"],
         "price": 150000
     },
     {
