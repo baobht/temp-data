@@ -1,86 +1,190 @@
 [
     {
         "id": 1,
-        "name": "Beautiful Bracelet1",
+        "name": "Gold/Silver Heart Lock Bracelet",
         "type": "Bracelet",
-        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "image_url": "https://drive.google.com/file/d/1sFU5IQ3D3Fwwxc-i05xUp5QKNCK5s5cX/view?usp=drive_link",
         "images": [
-            "https://drive.google.com/uc?id=10D5JBIWPASy46ilUFSmFnAnxY8znMUN2",
-            "https://i.imgur.com/SipINro.jpg",
-            "https://i.imgur.com/7RI6idX.jpg"
+            "https://drive.google.com/file/d/1sFU5IQ3D3Fwwxc-i05xUp5QKNCK5s5cX/view?usp=drive_link",
+            "https://drive.google.com/file/d/1GBhoM2tm0fpHdTvb2Rmy_S5nb94psHYH/view?usp=drive_link",
+            "https://drive.google.com/file/d/1YUHH6rjFuzczzC4qz2vGAcK1AG8ksF1C/view?usp=drive_link"
         ],
-        "price": 150000
+        "price": 169000
     },
     {
         "id": 1,
-        "name": "Beautiful Bracelet",
+        "name": "Gold Paper Airplane Bracelet",
         "type": "Bracelet",
-        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "image_url": "https://drive.google.com/uc?id=1VA5r9u4KO0oo0NEL1HSeBD7FBnG-6u8Y&export=view",
         "images": [
-            "https://i.imgur.com/vn9iorZ.jpg",
-            "https://i.imgur.com/SipINro.jpg",
-            "https://i.imgur.com/7RI6idX.jpg"
+            "https://drive.google.com/uc?id=1VA5r9u4KO0oo0NEL1HSeBD7FBnG-6u8Y&export=view",
+            "https://drive.google.com/uc?id=1ECoRfUwI3QaIc1TdnNwANdT8k8ApT3oE&export=view",
+            "https://drive.google.com/uc?id=1QravDFmLz1fKVmyGbi3w_sjrdjykYMgx&export=view"
         ],
-        "price": 150000
+        "price": 139000
     },
     {
         "id": 1,
-        "name": "Beautiful Bracelet",
+        "name": "Golden Bear Bracelet",
         "type": "Bracelet",
-        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "image_url": "https://drive.google.com/uc?id=1NslLgADmUWamVFOeqI1FaHqNYIeTL-43&export=view",
         "images": [
-            "https://i.imgur.com/vn9iorZ.jpg",
-            "https://i.imgur.com/SipINro.jpg",
-            "https://i.imgur.com/7RI6idX.jpg"
+            "https://drive.google.com/uc?id=1NslLgADmUWamVFOeqI1FaHqNYIeTL-43&export=view",
+            "https://drive.google.com/file/d/1fs3hWoSvP8nRWfl2hZxaABak0MWvc-Jx/view?usp=drive_link",
+            "https://drive.google.com/uc?id=1dc-mW8oLlaN2Qu6M9jNvkPudMPp6p29X&export=view"
         ],
-        "price": 150000
+        "price": 139000
     },
     {
         "id": 1,
-        "name": "Beautiful Bracelet",
+        "name": "Dainty Gold Bow Bracelet",
         "type": "Bracelet",
-        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "image_url": "https://drive.google.com/uc?id=13-ikbwWBC5c1ktgg7wYKOzGK_0jmcfNR&export=view",
         "images": [
-            "https://i.imgur.com/vn9iorZ.jpg",
-            "https://i.imgur.com/SipINro.jpg",
-            "https://i.imgur.com/7RI6idX.jpg"
+            "https://drive.google.com/uc?id=13-ikbwWBC5c1ktgg7wYKOzGK_0jmcfNR&export=view",
+            "https://drive.google.com/uc?id=1OtiHGNcnI5S0hYBiShlrDHv1lPBNNmn-&export=view",
+            "https://drive.google.com/uc?id=1-zXvpF9i9-DZSziDOVdG4nhhtCPiXuxU&export=view"
         ],
-        "price": 150000
+        "price": 139000
     },
     {
         "id": 1,
-        "name": "Beautiful Bracelet",
+        "name": "Heart Charm Bracelet",
         "type": "Bracelet",
-        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "image_url": "https://drive.google.com/uc?id=1MW-PDNnLYE9GkDud-GBrJeS-4-6Vk74z&export=view",
         "images": [
-            "https://i.imgur.com/vn9iorZ.jpg",
-            "https://i.imgur.com/SipINro.jpg",
-            "https://i.imgur.com/7RI6idX.jpg"
+            "https://drive.google.com/uc?id=1MW-PDNnLYE9GkDud-GBrJeS-4-6Vk74z&export=view",
+            "https://drive.google.com/uc?id=124jo14P8oXvRxYoruQZExp7ndQ0Cnk-7&export=view",
+            "https://drive.google.com/uc?id=1F81jE3MDWaqjbwqObDyFe6wYf8dIT8kx&export=view"
         ],
-        "price": 150000
+        "price": 139000
     },
     {
         "id": 1,
-        "name": "Beautiful Bracelet",
+        "name": "Gold Lucky Charm Bracelet",
         "type": "Bracelet",
-        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "image_url": "https://drive.google.com/uc?id=1TdF422pz4RK9NIC2U3bfS-BWGQN5MBkC&export=view",
         "images": [
-            "https://i.imgur.com/vn9iorZ.jpg",
-            "https://i.imgur.com/SipINro.jpg",
-            "https://i.imgur.com/7RI6idX.jpg"
+            "https://drive.google.com/uc?id=1TdF422pz4RK9NIC2U3bfS-BWGQN5MBkC&export=view",
+            "https://drive.google.com/uc?id=1OsgGQN_bJ1IoVdjjtSjdSyHjCRUu1oP4&export=view",
+            "https://drive.google.com/uc?id=1xc8_VRSRnkJiT8EyPF0wKC7lWvKZEbg2&export=view"
         ],
-        "price": 150000
+        "price": 179000
     },
     {
         "id": 1,
-        "name": "Beautiful Bracelet",
+        "name": "Glitter Crystal Bracelet",
         "type": "Bracelet",
-        "image_url": "https://i.imgur.com/vn9iorZ.jpg",
+        "image_url": "https://drive.google.com/uc?id=1wp4AuWdybNZvI-XEe-dJhDnCaN6HUnYu&export=view",
         "images": [
-            "https://i.imgur.com/vn9iorZ.jpg",
-            "https://i.imgur.com/SipINro.jpg",
-            "https://i.imgur.com/7RI6idX.jpg"
+            "https://drive.google.com/uc?id=1wp4AuWdybNZvI-XEe-dJhDnCaN6HUnYu&export=view",
+            "https://drive.google.com/uc?id=1RxoMF9SOycsccuRsKRgeitEkZSEyVF8H&export=view",
+            "https://drive.google.com/uc?id=1_Dwvz_eyJUM8wrOPHqJWb3c195uwlXTf&export=view"
         ],
-        "price": 150000
-    }
+        "price": 110000
+    },
+{
+        "id": 1,
+        "name": "Gold/Silver Curved  Wire Chain Bracelet",
+        "type": "Bracelet",
+        "image_url": "https://drive.google.com/uc?id=13ydedFb06g38LyWZOaAV4mB-DI2EBsWg&export=view",
+        "images": [
+            "https://drive.google.com/uc?id=13ydedFb06g38LyWZOaAV4mB-DI2EBsWg&export=view",
+            "https://drive.google.com/uc?id=1_9FTRggOj0RmH0hyNHB5xx3ZqekJseBF&export=view",
+            "https://drive.google.com/uc?id=1t6tHmyVJfDq2LzW5EpfSx3BhYGbjdGeX&export=view"
+        ],
+        "price": 110000
+    },
+{
+        "id": 1,
+        "name": "Roman Numerals Crystal Bracelet",
+        "type": "Bracelet",
+        "image_url": "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
+        "images": [
+            "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
+            "https://drive.google.com/uc?id=17s_bjqV09d-PzgWqHRf68VSqiqfuh-0p&export=view",
+            "https://drive.google.com/uc?id=1RaolnnQJXEC7NhSSYbuG_1oSs8jESIwu&export=view"
+        ],
+        "price": 139000
+    },
+{
+        "id": 1,
+        "name": "Golden/Silver Flower Bracelet",
+        "type": "Bracelet",
+        "image_url": "https://drive.google.com/uc?id=1b4eq8DN3CMa1ZFuVe13ifKG7sgJn8eEG&export=view",
+        "images": [
+            "https://drive.google.com/uc?id=1b4eq8DN3CMa1ZFuVe13ifKG7sgJn8eEG&export=view",
+            "https://drive.google.com/uc?id=1QmfOGAzdATG0PjWz_thNhLRZi1ieUZyX&export=view",
+            "https://drive.google.com/uc?id=1EXuiqdqaa0nnpn56Ig7nLV1xMuiEMQL9&export=view"
+        ],
+        "price": 139000
+},
+{
+        "id": 1,
+        "name": "Gold Butterfly Charm Herringbone Bracelet",
+        "type": "Bracelet",
+        "image_url": "https://drive.google.com/uc?id=1QnD347V6CEJendkbr71bNClAwVw0rOfQ&export=view",
+        "images": [
+            "https://drive.google.com/uc?id=1QnD347V6CEJendkbr71bNClAwVw0rOfQ&export=view",
+            "https://drive.google.com/uc?id=1vpUXtdBAPvFd6BCJBlY6eqArrQSgDe5t&export=view",
+            "https://drive.google.com/uc?id=1nOYYjbjWCe11iZqSXyqU0V2mmCXjLoN7&export=view"
+        ],
+        "price": 149000
+    },
+{
+        "id": 1,
+        "name": "Roman Numerals Crystal Bracelet",
+        "type": "Bracelet",
+        "image_url": "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
+        "images": [
+            "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
+            "https://drive.google.com/uc?id=17s_bjqV09d-PzgWqHRf68VSqiqfuh-0p&export=view",
+            "https://drive.google.com/uc?id=1RaolnnQJXEC7NhSSYbuG_1oSs8jESIwu&export=view"
+        ],
+        "price": 139000
+    },
+{
+        "id": 1,
+        "name": "Roman Numerals Crystal Bracelet",
+        "type": "Bracelet",
+        "image_url": "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
+        "images": [
+            "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
+            "https://drive.google.com/uc?id=17s_bjqV09d-PzgWqHRf68VSqiqfuh-0p&export=view",
+            "https://drive.google.com/uc?id=1RaolnnQJXEC7NhSSYbuG_1oSs8jESIwu&export=view"
+        ],
+        "price": 139000
+    },
+{
+        "id": 1,
+        "name": "Roman Numerals Crystal Bracelet",
+        "type": "Bracelet",
+        "image_url": "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
+        "images": [
+            "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
+            "https://drive.google.com/uc?id=17s_bjqV09d-PzgWqHRf68VSqiqfuh-0p&export=view",
+            "https://drive.google.com/uc?id=1RaolnnQJXEC7NhSSYbuG_1oSs8jESIwu&export=view"
+        ],
+        "price": 139000
+    },
+{
+        "id": 1,
+        "name": "Roman Numerals Crystal Bracelet",
+        "type": "Bracelet",
+        "image_url": "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
+        "images": [
+            "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
+            "https://drive.google.com/uc?id=17s_bjqV09d-PzgWqHRf68VSqiqfuh-0p&export=view",
+            "https://drive.google.com/uc?id=1RaolnnQJXEC7NhSSYbuG_1oSs8jESIwu&export=view"
+        ],
+        "price": 139000
+}
+
+
+
+
+
+
+
+
 ]
