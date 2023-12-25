@@ -1,307 +1,302 @@
 [
-    {
-        "id": 1,
-        "name": "Tetra Pearl Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1EnrqzFJ8__8Zrq0RkiKmGR40owFRxbVY&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1EnrqzFJ8__8Zrq0RkiKmGR40owFRxbVY&export=view",
-            "https://drive.google.com/uc?id=1Px370B7wcRGFrWKES8l8v1eMqozNPBrO&export=view",
-            "https://drive.google.com/uc?id=1DdobQQ_q6cChr_zchIVVFbFtzwtjoFk8&export=view"
-        ],
-        "price": 139000
-    },
-    {
-        "id": 1,
-        "name": "Snake Bone Double Layer Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1Xx1Nc_VVsKJ8LZBJHsynSEhbj6DleSSY&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1Xx1Nc_VVsKJ8LZBJHsynSEhbj6DleSSY&export=view",
-            "https://drive.google.com/uc?id=1fyjAkVJ-WlofcXT1D2q6tiIDCaAjzPVw&export=view",
-            "https://drive.google.com/uc?id=19R3ejNyiCeHloUHkXeVogODBdpCpTFnr&export=view"
-        ],
-        "price": 169000
-    },
-    {
-        "id": 1,
-        "name": "Golden Key Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1KAbzs9QFpE2A_uHb3dM7ptKLkCUW8PTp&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1KAbzs9QFpE2A_uHb3dM7ptKLkCUW8PTp&export=view",
-            "https://drive.google.com/uc?id=1fXqVi-BIuUuNvoUZ4Ut5jETICKAcCNhJ&export=view",
-            "https://drive.google.com/uc?id=1KO02ib4vDEFrSwc4s2e0Yi5jGOqHRQbN&export=view"
-        ],
-        "price": 159000
-    },
-    {
-        "id": 1,
-        "name": "Bow Ball Beaded Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=17c-DpeD6qU-9apaytZjrR_jPeHT61fxt&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=17c-DpeD6qU-9apaytZjrR_jPeHT61fxt&export=view",
-            "https://drive.google.com/uc?id=11WRF_tr7MmfZ4JDwEAm_sBJUQhRrRNsc&export=view",
-            "https://drive.google.com/uc?id=10ujrAIsh2Z1IdBHF_a4TwoxhL9-J_3Lk&export=view"
-        ],
-        "price": 149000
-    }, 
-     {
-        "id": 1,
-        "name": "Bow Ball Beaded Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=17c-DpeD6qU-9apaytZjrR_jPeHT61fxt&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=17c-DpeD6qU-9apaytZjrR_jPeHT61fxt&export=view",
-            "https://drive.google.com/uc?id=11WRF_tr7MmfZ4JDwEAm_sBJUQhRrRNsc&export=view",
-            "https://drive.google.com/uc?id=10ujrAIsh2Z1IdBHF_a4TwoxhL9-J_3Lk&export=view"
-        ],
-        "price": 149000
-    }, 
-     {
-        "id": 1,
-        "name": "Golden Heart With Love Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1Rdc_IAiXeEQcnlyA1DGSons755erQ8FN&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1Rdc_IAiXeEQcnlyA1DGSons755erQ8FN&export=view",
-            "https://drive.google.com/uc?id=1_VpOxGJpS2iQNqJGkkRsDdo0uJd-A_zk&export=view",
-            "https://drive.google.com/uc?id=16PumWdUpUWq_bwEykH12UrTSXvEjbcHz&export=view"
-        ],
-        "price": 159000
-    }, 
-     {
-        "id": 1,
-        "name": "Golden Heart Charm Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1GO3mCqwn1l3h9MsMDehckgt4mYnV0mJS&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1GO3mCqwn1l3h9MsMDehckgt4mYnV0mJS&export=view",
-            "https://drive.google.com/uc?id=1prKBO0hgByRppPFdCNs7kLTlYDRzsAve&export=view",
-            "https://drive.google.com/uc?id=1VwGMSd3mZd0-CSxCPDiAqfOh5PQIs8Sc&export=view"
-        ],
-        "price": 149000
-    }, 
-     {
-        "id": 1,
-        "name": "Golden Double Heart Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1zydQuv7YErN9T9PhwBaC-zohgbkD_lQD&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1zydQuv7YErN9T9PhwBaC-zohgbkD_lQD&export=view",
-            "https://drive.google.com/uc?id=1UgjJXsKcr2A3nAgDmJ64qll_QlKYy0jw&export=view",
-            "https://drive.google.com/uc?id=1IKk3jmVbB1sNqsXZVZiEcUBnqO_WYR7t&export=view"
-        ],
-        "price": 129000
-    }, 
-     {
-        "id": 1,
-        "name": "Cutted Heart Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=12gJ7r0V6ypmFfvoE-SAmcKgvH0S1Vz62&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=12gJ7r0V6ypmFfvoE-SAmcKgvH0S1Vz62&export=view",
-            "https://drive.google.com/uc?id=1PW9Qc3uIJymj-yw6ZSonu9bFlhUXlQgl&export=view",
-            "https://drive.google.com/uc?id=1wW9NUdqyFHvAdLrNUPKThEMs94gXmY17&export=view"
-        ],
-        "price": 129000
-    }, 
-     {
-        "id": 1,
-        "name": "Meteor Charm Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=14-fKAz9WvQsPH054WqVkvBRCZEc69wWM&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=14-fKAz9WvQsPH054WqVkvBRCZEc69wWM&export=view",
-            "https://drive.google.com/uc?id=1lVpa4Hf_79z78gAwq484ifDteUiF4fxA&export=view",
-            "https://drive.google.com/uc?id=1Y7YOjilnTyu3J0WczNsO6iAOkFPI34kQ&export=view"
-        ],
-        "price": 149000
-    }, 
-     {
-        "id": 1,
-        "name": "Opal Moonstar Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1FLt6DSYLjrBQR-3GYE4hk733UmGJzHU8&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1FLt6DSYLjrBQR-3GYE4hk733UmGJzHU8&export=view",
-            "https://drive.google.com/uc?id=1Qbl64_3_Zjc5BNOSEhAaqo4-TOnMrxPI&export=view",
-            "https://drive.google.com/uc?id=14F_TLalXv_yyRHeJ4okD95pMWfW0dgfE&export=view"
-        ],
-        "price": 139000
-    }, 
-     {
-        "id": 1,
-        "name": "Double Square Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1eW7hZJKdyoaEuxjB6IRqtFjv42WzrdgQ&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1eW7hZJKdyoaEuxjB6IRqtFjv42WzrdgQ&export=view",
-            "https://drive.google.com/uc?id=1i7xLARziT-1nRoGADmHmXk7GcKIoWq5-&export=view",
-            "https://drive.google.com/uc?id=1cF7QRbk8r2lk3DknuAIf6LTVQSINpF-L&export=view"
-        ],
-        "price": 149000
-    }, 
-     {
-        "id": 1,
-        "name": "Silver Heart Bow Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1CoYRmEbP9sCBQ-p88Qje1uO1Ey5WYY2p&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1CoYRmEbP9sCBQ-p88Qje1uO1Ey5WYY2p&export=view",
-            "https://drive.google.com/uc?id=1343H7vpFTOE4UeTBhkVeidttYc99J_Px&export=view",
-            "https://drive.google.com/uc?id=1343H7vpFTOE4UeTBhkVeidttYc99J_Px&export=view"
-        ],
-        "price": 159000
-    }, 
-     {
-        "id": 1,
-        "name": "Silver Tinkle Bell Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1kuWgDvSSBNqHlxxOXMTlIS1KwKFaFDq4&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1kuWgDvSSBNqHlxxOXMTlIS1KwKFaFDq4&export=view",
-            "https://drive.google.com/uc?id=1s4rPupRfY6JMF5gpGSA7GQcpPPFPLrLP&export=view",
-            "https://drive.google.com/uc?id=1s4rPupRfY6JMF5gpGSA7GQcpPPFPLrLP&export=view"
-        ],
-        "price": 149000
-    }, 
-     {
-        "id": 1,
-        "name": "Mono Pearl Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1F8A2MtvaBIVQuF-TNgNuZaFdXczekNv1&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1F8A2MtvaBIVQuF-TNgNuZaFdXczekNv1&export=view",
-            "https://drive.google.com/uc?id=1T-fptoehpmfQAdHFkQ0utbQpKo1iREdA&export=view",
-            "https://drive.google.com/uc?id=1ArRyDgVrqkiY7Bxzp_EEvtXide016q-U&export=view"
-        ],
-        "price": 129000
-    }, 
-     {
-        "id": 1,
-        "name": "Gold-plated Heart With Stones Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1g2KpL8utuLtup7tX4QPi52khD3A0052I&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1g2KpL8utuLtup7tX4QPi52khD3A0052I&export=view",
-            "https://drive.google.com/uc?id=1fJxOUNS-xLVeOQErW9mYgCCDxUogAmOP&export=view",
-            "https://drive.google.com/uc?id=1GI9OLioQRYMs0NqsZIEHHJY-jKyeW0xf&export=view"
-        ],
-        "price": 149000
-    }, 
-     {
-        "id": 1,
-        "name": "Golden Bow Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1SGyUoIDZ9hRW5OTc97m5DEsH9KSvXyh8&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1SGyUoIDZ9hRW5OTc97m5DEsH9KSvXyh8&export=view",
-            "https://drive.google.com/uc?id=1R6abJ-NLgT5hijVjybWJb50dtCzhk9ey&export=view",
-            "https://drive.google.com/uc?id=1nRpWVRNVOGiSQ2cMuwShQbR4YDlRnG9U&export=view"
-        ],
-        "price": 149000
-    }, 
-     {
-        "id": 1,
-        "name": "Silver Stone Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1j5GceRMT2173WYYRMzQl21_KEi3OY8mj&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1j5GceRMT2173WYYRMzQl21_KEi3OY8mj&export=view",
-            "https://drive.google.com/uc?id=1h93lKUOTe8j6Lg6xoATnPNYGK3urRuMr&export=view",
-            "https://drive.google.com/uc?id=1SPjEuns63r8ralbA4PkNq_iYTQYFKuMZ&export=view"
-        ],
-        "price": 129000
-    }, 
-     {
-        "id": 1,
-        "name": "Golden Star With Stones Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1SFomRWWass3r0LXBewJVLTnhgBXd1vOb&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1SFomRWWass3r0LXBewJVLTnhgBXd1vOb&export=view",
-            "https://drive.google.com/uc?id=10GqhkuOLzdj7h2htwA2fs47czYQgu_8h&export=view",
-            "https://drive.google.com/uc?id=1Zu3aYe68D95m6Tp16wERLU5Fx9H2taPI&export=view"
-        ],
-        "price": 149000
-    }, 
-     {
-        "id": 1,
-        "name": "Silver Star With Stones Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1FmVIKH3IPAub-1jMmrvleHCySKLElSmS&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1FmVIKH3IPAub-1jMmrvleHCySKLElSmS&export=view",
-            "https://drive.google.com/uc?id=1MRCc5buCgbp1OGmTCJ2NINJ-WWq-zGhG&export=view",
-            "https://drive.google.com/uc?id=1fQZ9aQv-KS023mVkMPNbvoNcW5W1ZEfe&export=view"
-        ],
-        "price": 149000
-    }, 
-     {
-        "id": 1,
-        "name": "Silver Double Heart Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1GNY4VlyRUSjbMlpn9TVZh2sTjUPL8v1n&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1GNY4VlyRUSjbMlpn9TVZh2sTjUPL8v1n&export=view",
-            "https://drive.google.com/uc?id=1SqaBiZFY8JK4K-Dj__ByBNsGn6Hb8JZD&export=view",
-            "https://drive.google.com/uc?id=15qldUmdX7QYNYHvBzVi14MkF_nexVuM1&export=view"
-        ],
-        "price": 129000
-    }, 
-     {
-        "id": 1,
-        "name": "Silver Heart Charm Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1LedHAEpYI_UAFpQl5OZaTZJbTkxvp9VZ&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1LedHAEpYI_UAFpQl5OZaTZJbTkxvp9VZ&export=view",
-            "https://drive.google.com/uc?id=1WPT5QC60avvkbMDMSdLCIvjblckirkzx&export=view",
-            "https://drive.google.com/uc?id=1YmLBwzb6zJ_zGUx9oZHFuo1gp0BqrUq6&export=view"
-        ],
-        "price": 149000
-    }, 
-     {
-        "id": 1,
-        "name": "Four-leaf Clover Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1k_tHHQbYW77oCSOmajOXpRK0ltTnN5LP&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1k_tHHQbYW77oCSOmajOXpRK0ltTnN5LP&export=view",
-            "https://drive.google.com/uc?id=1KOeGb5icba3PmtvbtXDDOlM8Bm1_ERCa&export=view",
-            "https://drive.google.com/uc?id=1nIbss5bklHw32WSkoaEcAa6auqiX-UWa&export=view"
-        ],
-         
-        "price": 149000
-    }, 
-]
-{
-        "id": 1,
-        "name": "Moon And Star Combined With Pearls Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1QIIVH2NUFodvvxeAIy44RL5F3vlvcmU3&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1QIIVH2NUFodvvxeAIy44RL5F3vlvcmU3&export=view",
-            "https://drive.google.com/uc?id=11m2MbcSDUe521-QmbRdf_T_0psg7F1Rg&export=view",
-            "https://drive.google.com/uc?id=1783jEBuSx4iiGRhz6qpX_ZAM2Yr39sGD&export=view"
-        ],
-         
-        "price": 149000
-    }, 
-]
-{
-        "id": 1,
-        "name": "Teardrop Angel Wings Necklace",
-        "type": "Necklace",
-        "image_url": "https://drive.google.com/uc?id=1wcX1IkGwFjXJutTDpMeKnX7SZw-RRaDG&export=view",
-        "images": [
-            "https://drive.google.com/uc?id=1wcX1IkGwFjXJutTDpMeKnX7SZw-RRaDG&export=view",
-            "https://drive.google.com/uc?id=1HwWVoPSqpgtkUmb1ToIMA0wB7p6gXrmA&export=view",
-            "https://drive.google.com/uc?id=1U_r1cLHAvdgC4k0oYyOAKoFHvtbItNU_&export=view"
-        ],
-         
-        "price": 169000
-    }, 
+  {
+    "id": 1,
+    "name": "Tetra Pearl Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1EnrqzFJ8__8Zrq0RkiKmGR40owFRxbVY&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1EnrqzFJ8__8Zrq0RkiKmGR40owFRxbVY&export=view",
+      "https://drive.google.com/uc?id=1Px370B7wcRGFrWKES8l8v1eMqozNPBrO&export=view",
+      "https://drive.google.com/uc?id=1DdobQQ_q6cChr_zchIVVFbFtzwtjoFk8&export=view"
+    ],
+    "price": 139000
+  },
+  {
+    "id": 1,
+    "name": "Snake Bone Double Layer Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1Xx1Nc_VVsKJ8LZBJHsynSEhbj6DleSSY&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1Xx1Nc_VVsKJ8LZBJHsynSEhbj6DleSSY&export=view",
+      "https://drive.google.com/uc?id=1fyjAkVJ-WlofcXT1D2q6tiIDCaAjzPVw&export=view",
+      "https://drive.google.com/uc?id=19R3ejNyiCeHloUHkXeVogODBdpCpTFnr&export=view"
+    ],
+    "price": 169000
+  },
+  {
+    "id": 1,
+    "name": "Golden Key Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1KAbzs9QFpE2A_uHb3dM7ptKLkCUW8PTp&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1KAbzs9QFpE2A_uHb3dM7ptKLkCUW8PTp&export=view",
+      "https://drive.google.com/uc?id=1fXqVi-BIuUuNvoUZ4Ut5jETICKAcCNhJ&export=view",
+      "https://drive.google.com/uc?id=1KO02ib4vDEFrSwc4s2e0Yi5jGOqHRQbN&export=view"
+    ],
+    "price": 159000
+  },
+  {
+    "id": 1,
+    "name": "Bow Ball Beaded Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=17c-DpeD6qU-9apaytZjrR_jPeHT61fxt&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=17c-DpeD6qU-9apaytZjrR_jPeHT61fxt&export=view",
+      "https://drive.google.com/uc?id=11WRF_tr7MmfZ4JDwEAm_sBJUQhRrRNsc&export=view",
+      "https://drive.google.com/uc?id=10ujrAIsh2Z1IdBHF_a4TwoxhL9-J_3Lk&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Bow Ball Beaded Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=17c-DpeD6qU-9apaytZjrR_jPeHT61fxt&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=17c-DpeD6qU-9apaytZjrR_jPeHT61fxt&export=view",
+      "https://drive.google.com/uc?id=11WRF_tr7MmfZ4JDwEAm_sBJUQhRrRNsc&export=view",
+      "https://drive.google.com/uc?id=10ujrAIsh2Z1IdBHF_a4TwoxhL9-J_3Lk&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Golden Heart With Love Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1Rdc_IAiXeEQcnlyA1DGSons755erQ8FN&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1Rdc_IAiXeEQcnlyA1DGSons755erQ8FN&export=view",
+      "https://drive.google.com/uc?id=1_VpOxGJpS2iQNqJGkkRsDdo0uJd-A_zk&export=view",
+      "https://drive.google.com/uc?id=16PumWdUpUWq_bwEykH12UrTSXvEjbcHz&export=view"
+    ],
+    "price": 159000
+  },
+  {
+    "id": 1,
+    "name": "Golden Heart Charm Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1GO3mCqwn1l3h9MsMDehckgt4mYnV0mJS&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1GO3mCqwn1l3h9MsMDehckgt4mYnV0mJS&export=view",
+      "https://drive.google.com/uc?id=1prKBO0hgByRppPFdCNs7kLTlYDRzsAve&export=view",
+      "https://drive.google.com/uc?id=1VwGMSd3mZd0-CSxCPDiAqfOh5PQIs8Sc&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Golden Double Heart Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1zydQuv7YErN9T9PhwBaC-zohgbkD_lQD&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1zydQuv7YErN9T9PhwBaC-zohgbkD_lQD&export=view",
+      "https://drive.google.com/uc?id=1UgjJXsKcr2A3nAgDmJ64qll_QlKYy0jw&export=view",
+      "https://drive.google.com/uc?id=1IKk3jmVbB1sNqsXZVZiEcUBnqO_WYR7t&export=view"
+    ],
+    "price": 129000
+  },
+  {
+    "id": 1,
+    "name": "Cutted Heart Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=12gJ7r0V6ypmFfvoE-SAmcKgvH0S1Vz62&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=12gJ7r0V6ypmFfvoE-SAmcKgvH0S1Vz62&export=view",
+      "https://drive.google.com/uc?id=1PW9Qc3uIJymj-yw6ZSonu9bFlhUXlQgl&export=view",
+      "https://drive.google.com/uc?id=1wW9NUdqyFHvAdLrNUPKThEMs94gXmY17&export=view"
+    ],
+    "price": 129000
+  },
+  {
+    "id": 1,
+    "name": "Meteor Charm Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=14-fKAz9WvQsPH054WqVkvBRCZEc69wWM&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=14-fKAz9WvQsPH054WqVkvBRCZEc69wWM&export=view",
+      "https://drive.google.com/uc?id=1lVpa4Hf_79z78gAwq484ifDteUiF4fxA&export=view",
+      "https://drive.google.com/uc?id=1Y7YOjilnTyu3J0WczNsO6iAOkFPI34kQ&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Opal Moonstar Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1FLt6DSYLjrBQR-3GYE4hk733UmGJzHU8&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1FLt6DSYLjrBQR-3GYE4hk733UmGJzHU8&export=view",
+      "https://drive.google.com/uc?id=1Qbl64_3_Zjc5BNOSEhAaqo4-TOnMrxPI&export=view",
+      "https://drive.google.com/uc?id=14F_TLalXv_yyRHeJ4okD95pMWfW0dgfE&export=view"
+    ],
+    "price": 139000
+  },
+  {
+    "id": 1,
+    "name": "Double Square Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1eW7hZJKdyoaEuxjB6IRqtFjv42WzrdgQ&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1eW7hZJKdyoaEuxjB6IRqtFjv42WzrdgQ&export=view",
+      "https://drive.google.com/uc?id=1i7xLARziT-1nRoGADmHmXk7GcKIoWq5-&export=view",
+      "https://drive.google.com/uc?id=1cF7QRbk8r2lk3DknuAIf6LTVQSINpF-L&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Silver Heart Bow Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1CoYRmEbP9sCBQ-p88Qje1uO1Ey5WYY2p&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1CoYRmEbP9sCBQ-p88Qje1uO1Ey5WYY2p&export=view",
+      "https://drive.google.com/uc?id=1343H7vpFTOE4UeTBhkVeidttYc99J_Px&export=view",
+      "https://drive.google.com/uc?id=1343H7vpFTOE4UeTBhkVeidttYc99J_Px&export=view"
+    ],
+    "price": 159000
+  },
+  {
+    "id": 1,
+    "name": "Silver Tinkle Bell Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1kuWgDvSSBNqHlxxOXMTlIS1KwKFaFDq4&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1kuWgDvSSBNqHlxxOXMTlIS1KwKFaFDq4&export=view",
+      "https://drive.google.com/uc?id=1s4rPupRfY6JMF5gpGSA7GQcpPPFPLrLP&export=view",
+      "https://drive.google.com/uc?id=1s4rPupRfY6JMF5gpGSA7GQcpPPFPLrLP&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Mono Pearl Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1F8A2MtvaBIVQuF-TNgNuZaFdXczekNv1&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1F8A2MtvaBIVQuF-TNgNuZaFdXczekNv1&export=view",
+      "https://drive.google.com/uc?id=1T-fptoehpmfQAdHFkQ0utbQpKo1iREdA&export=view",
+      "https://drive.google.com/uc?id=1ArRyDgVrqkiY7Bxzp_EEvtXide016q-U&export=view"
+    ],
+    "price": 129000
+  },
+  {
+    "id": 1,
+    "name": "Gold-plated Heart With Stones Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1g2KpL8utuLtup7tX4QPi52khD3A0052I&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1g2KpL8utuLtup7tX4QPi52khD3A0052I&export=view",
+      "https://drive.google.com/uc?id=1fJxOUNS-xLVeOQErW9mYgCCDxUogAmOP&export=view",
+      "https://drive.google.com/uc?id=1GI9OLioQRYMs0NqsZIEHHJY-jKyeW0xf&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Golden Bow Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1SGyUoIDZ9hRW5OTc97m5DEsH9KSvXyh8&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1SGyUoIDZ9hRW5OTc97m5DEsH9KSvXyh8&export=view",
+      "https://drive.google.com/uc?id=1R6abJ-NLgT5hijVjybWJb50dtCzhk9ey&export=view",
+      "https://drive.google.com/uc?id=1nRpWVRNVOGiSQ2cMuwShQbR4YDlRnG9U&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Silver Stone Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1j5GceRMT2173WYYRMzQl21_KEi3OY8mj&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1j5GceRMT2173WYYRMzQl21_KEi3OY8mj&export=view",
+      "https://drive.google.com/uc?id=1h93lKUOTe8j6Lg6xoATnPNYGK3urRuMr&export=view",
+      "https://drive.google.com/uc?id=1SPjEuns63r8ralbA4PkNq_iYTQYFKuMZ&export=view"
+    ],
+    "price": 129000
+  },
+  {
+    "id": 1,
+    "name": "Golden Star With Stones Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1SFomRWWass3r0LXBewJVLTnhgBXd1vOb&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1SFomRWWass3r0LXBewJVLTnhgBXd1vOb&export=view",
+      "https://drive.google.com/uc?id=10GqhkuOLzdj7h2htwA2fs47czYQgu_8h&export=view",
+      "https://drive.google.com/uc?id=1Zu3aYe68D95m6Tp16wERLU5Fx9H2taPI&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Silver Star With Stones Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1FmVIKH3IPAub-1jMmrvleHCySKLElSmS&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1FmVIKH3IPAub-1jMmrvleHCySKLElSmS&export=view",
+      "https://drive.google.com/uc?id=1MRCc5buCgbp1OGmTCJ2NINJ-WWq-zGhG&export=view",
+      "https://drive.google.com/uc?id=1fQZ9aQv-KS023mVkMPNbvoNcW5W1ZEfe&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Silver Double Heart Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1GNY4VlyRUSjbMlpn9TVZh2sTjUPL8v1n&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1GNY4VlyRUSjbMlpn9TVZh2sTjUPL8v1n&export=view",
+      "https://drive.google.com/uc?id=1SqaBiZFY8JK4K-Dj__ByBNsGn6Hb8JZD&export=view",
+      "https://drive.google.com/uc?id=15qldUmdX7QYNYHvBzVi14MkF_nexVuM1&export=view"
+    ],
+    "price": 129000
+  },
+  {
+    "id": 1,
+    "name": "Silver Heart Charm Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1LedHAEpYI_UAFpQl5OZaTZJbTkxvp9VZ&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1LedHAEpYI_UAFpQl5OZaTZJbTkxvp9VZ&export=view",
+      "https://drive.google.com/uc?id=1WPT5QC60avvkbMDMSdLCIvjblckirkzx&export=view",
+      "https://drive.google.com/uc?id=1YmLBwzb6zJ_zGUx9oZHFuo1gp0BqrUq6&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Four-leaf Clover Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1k_tHHQbYW77oCSOmajOXpRK0ltTnN5LP&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1k_tHHQbYW77oCSOmajOXpRK0ltTnN5LP&export=view",
+      "https://drive.google.com/uc?id=1KOeGb5icba3PmtvbtXDDOlM8Bm1_ERCa&export=view",
+      "https://drive.google.com/uc?id=1nIbss5bklHw32WSkoaEcAa6auqiX-UWa&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Moon And Star Combined With Pearls Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1QIIVH2NUFodvvxeAIy44RL5F3vlvcmU3&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1QIIVH2NUFodvvxeAIy44RL5F3vlvcmU3&export=view",
+      "https://drive.google.com/uc?id=11m2MbcSDUe521-QmbRdf_T_0psg7F1Rg&export=view",
+      "https://drive.google.com/uc?id=1783jEBuSx4iiGRhz6qpX_ZAM2Yr39sGD&export=view"
+    ],
+    "price": 149000
+  },
+  {
+    "id": 1,
+    "name": "Teardrop Angel Wings Necklace",
+    "type": "Necklace",
+    "image_url": "https://drive.google.com/uc?id=1wcX1IkGwFjXJutTDpMeKnX7SZw-RRaDG&export=view",
+    "images": [
+      "https://drive.google.com/uc?id=1wcX1IkGwFjXJutTDpMeKnX7SZw-RRaDG&export=view",
+      "https://drive.google.com/uc?id=1HwWVoPSqpgtkUmb1ToIMA0wB7p6gXrmA&export=view",
+      "https://drive.google.com/uc?id=1U_r1cLHAvdgC4k0oYyOAKoFHvtbItNU_&export=view"
+    ],
+    "price": 169000
+  }
 ]
