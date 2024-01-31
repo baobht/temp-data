@@ -3,11 +3,11 @@
         "id": 1,
         "name": "Gold/Silver Heart Lock Bracelet",
         "type": "Bracelet",
-        "image_url": "https://drive.google.com/file/d/1sFU5IQ3D3Fwwxc-i05xUp5QKNCK5s5cX/view?usp=drive_link",
+        "image_url": "https://drive.google.com/file/d/1sFU5IQ3D3Fwwxc-i05xUp5QKNCK5s5cX/view",
         "images": [
-            "https://drive.google.com/file/d/1sFU5IQ3D3Fwwxc-i05xUp5QKNCK5s5cX/view?usp=drive_link",
-            "https://drive.google.com/file/d/1GBhoM2tm0fpHdTvb2Rmy_S5nb94psHYH/view?usp=drive_link",
-            "https://drive.google.com/file/d/1YUHH6rjFuzczzC4qz2vGAcK1AG8ksF1C/view?usp=drive_link"
+            "https://drive.google.com/file/d/1sFU5IQ3D3Fwwxc-i05xUp5QKNCK5s5cX/view",
+            "https://drive.google.com/file/d/1GBhoM2tm0fpHdTvb2Rmy_S5nb94psHYH/view",
+            "https://drive.google.com/file/d/1YUHH6rjFuzczzC4qz2vGAcK1AG8ksF1C/view"
         ],
         "price": 169000
     },
@@ -30,7 +30,7 @@
         "image_url": "https://drive.google.com/uc?id=1NslLgADmUWamVFOeqI1FaHqNYIeTL-43&export=view",
         "images": [
             "https://drive.google.com/uc?id=1NslLgADmUWamVFOeqI1FaHqNYIeTL-43&export=view",
-            "https://drive.google.com/file/d/1fs3hWoSvP8nRWfl2hZxaABak0MWvc-Jx/view?usp=drive_link",
+            "https://drive.google.com/file/d/1fs3hWoSvP8nRWfl2hZxaABak0MWvc-Jx/view",
             "https://drive.google.com/uc?id=1dc-mW8oLlaN2Qu6M9jNvkPudMPp6p29X&export=view"
         ],
         "price": 139000
