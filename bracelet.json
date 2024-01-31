@@ -12,7 +12,7 @@
         "price": 169000
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Gold Paper Airplane Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1VA5r9u4KO0oo0NEL1HSeBD7FBnG-6u8Y&export=view",
@@ -24,19 +24,19 @@
         "price": 139000
     },
     {
-        "id": 1,
+        "id": 3,
         "name": "Golden Bear Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1NslLgADmUWamVFOeqI1FaHqNYIeTL-43&export=view",
         "images": [
             "https://drive.google.com/uc?id=1NslLgADmUWamVFOeqI1FaHqNYIeTL-43&export=view",
-            "https://drive.google.com/file/d/1fs3hWoSvP8nRWfl2hZxaABak0MWvc-Jx/view",
+            "https://drive.google.com/uc?id=1fs3hWoSvP8nRWfl2hZxaABak0MWvc-Jx&export=view",
             "https://drive.google.com/uc?id=1dc-mW8oLlaN2Qu6M9jNvkPudMPp6p29X&export=view"
         ],
         "price": 139000
     },
     {
-        "id": 1,
+        "id": 4,
         "name": "Dainty Gold Bow Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=13-ikbwWBC5c1ktgg7wYKOzGK_0jmcfNR&export=view",
@@ -48,7 +48,7 @@
         "price": 139000
     },
     {
-        "id": 1,
+        "id": 5,
         "name": "Heart Charm Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1MW-PDNnLYE9GkDud-GBrJeS-4-6Vk74z&export=view",
@@ -60,7 +60,7 @@
         "price": 139000
     },
     {
-        "id": 1,
+        "id": 6,
         "name": "Gold Lucky Charm Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1TdF422pz4RK9NIC2U3bfS-BWGQN5MBkC&export=view",
@@ -72,7 +72,7 @@
         "price": 179000
     },
     {
-        "id": 1,
+        "id": 7,
         "name": "Glitter Crystal Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1wp4AuWdybNZvI-XEe-dJhDnCaN6HUnYu&export=view",
@@ -83,8 +83,8 @@
         ],
         "price": 110000
     },
-{
-        "id": 1,
+    {
+        "id": 8,
         "name": "Gold/Silver Curved  Wire Chain Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=13ydedFb06g38LyWZOaAV4mB-DI2EBsWg&export=view",
@@ -95,8 +95,8 @@
         ],
         "price": 110000
     },
-{
-        "id": 1,
+    {
+        "id": 9,
         "name": "Roman Numerals Crystal Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
@@ -107,8 +107,8 @@
         ],
         "price": 139000
     },
-{
-        "id": 1,
+    {
+        "id": 10,
         "name": "Golden/Silver Flower Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1b4eq8DN3CMa1ZFuVe13ifKG7sgJn8eEG&export=view",
@@ -118,9 +118,9 @@
             "https://drive.google.com/uc?id=1EXuiqdqaa0nnpn56Ig7nLV1xMuiEMQL9&export=view"
         ],
         "price": 139000
-},
-{
-        "id": 1,
+    },
+    {
+        "id": 11,
         "name": "Gold Butterfly Charm Herringbone Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1QnD347V6CEJendkbr71bNClAwVw0rOfQ&export=view",
@@ -131,8 +131,8 @@
         ],
         "price": 149000
     },
-{
-        "id": 1,
+    {
+        "id": 12,
         "name": "Roman Numerals Crystal Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
@@ -143,8 +143,8 @@
         ],
         "price": 139000
     },
-{
-        "id": 1,
+    {
+        "id": 13,
         "name": "Roman Numerals Crystal Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
@@ -155,8 +155,8 @@
         ],
         "price": 139000
     },
-{
-        "id": 1,
+    {
+        "id": 14,
         "name": "Roman Numerals Crystal Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
@@ -167,8 +167,8 @@
         ],
         "price": 139000
     },
-{
-        "id": 1,
+    {
+        "id": 15,
         "name": "Roman Numerals Crystal Bracelet",
         "type": "Bracelet",
         "image_url": "https://drive.google.com/uc?id=1FBB3DoujgLBZeu9VjM38alk1Fw2Ff9Wt&export=view",
@@ -178,13 +178,5 @@
             "https://drive.google.com/uc?id=1RaolnnQJXEC7NhSSYbuG_1oSs8jESIwu&export=view"
         ],
         "price": 139000
-}
-
-
-
-
-
-
-
-
+    }
 ]
